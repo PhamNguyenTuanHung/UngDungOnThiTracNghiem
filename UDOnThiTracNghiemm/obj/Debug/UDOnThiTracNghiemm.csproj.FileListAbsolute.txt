@@ -1,0 +1,10 @@
+C:\Users\BLUE\Desktop\LTGD\UDOnThiTracNghiemm\UDOnThiTracNghiemm\bin\Debug\UDOnThiTracNghiemm.exe.config
+C:\Users\BLUE\Desktop\LTGD\UDOnThiTracNghiemm\UDOnThiTracNghiemm\bin\Debug\UDOnThiTracNghiemm.exe
+C:\Users\BLUE\Desktop\LTGD\UDOnThiTracNghiemm\UDOnThiTracNghiemm\bin\Debug\UDOnThiTracNghiemm.pdb
+C:\Users\BLUE\Desktop\LTGD\UDOnThiTracNghiemm\UDOnThiTracNghiemm\obj\Debug\UDOnThiTracNghiemm.csproj.AssemblyReference.cache
+C:\Users\BLUE\Desktop\LTGD\UDOnThiTracNghiemm\UDOnThiTracNghiemm\obj\Debug\UDOnThiTracNghiemm.Form1.resources
+C:\Users\BLUE\Desktop\LTGD\UDOnThiTracNghiemm\UDOnThiTracNghiemm\obj\Debug\UDOnThiTracNghiemm.Properties.Resources.resources
+C:\Users\BLUE\Desktop\LTGD\UDOnThiTracNghiemm\UDOnThiTracNghiemm\obj\Debug\UDOnThiTracNghiemm.csproj.GenerateResource.cache
+C:\Users\BLUE\Desktop\LTGD\UDOnThiTracNghiemm\UDOnThiTracNghiemm\obj\Debug\UDOnThiTracNghiemm.csproj.CoreCompileInputs.cache
+C:\Users\BLUE\Desktop\LTGD\UDOnThiTracNghiemm\UDOnThiTracNghiemm\obj\Debug\UDOnThiTracNghiemm.exe
+C:\Users\BLUE\Desktop\LTGD\UDOnThiTracNghiemm\UDOnThiTracNghiemm\obj\Debug\UDOnThiTracNghiemm.pdb
